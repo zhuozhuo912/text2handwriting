@@ -11,7 +11,7 @@
 
 所有用到的文件都可以在 $text2handwriting$ 文件夹内找到。
 
- $back$ _$picture.jpg$ 是背景图片，源代码 $handwriting.py$ 文件中的参数都是为这个背景设置的。
+ $back$ _ $picture.jpg$ 是背景图片，源代码 $handwriting.py$ 文件中的参数都是为这个背景设置的。
 
 $life.ttf$ 和 $freedom.ttf$ 都是网上随便找的免费字体，需要的朋友也可以找自己喜欢的字体下载使用，只需要修改一下 $handwriting.py$ 文件中第 $15$ 行所用函数的第一个参数即可（例如你的字体文件名为 $myfont.ttf$，将其导入到和 $py$ 文件同一文件夹下，并将第 $15$ 行代码修改为 $font = ImageFont.truetype('myfont.ttf', 40, encoding='utf-8')$）即可。
 

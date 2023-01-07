@@ -9,7 +9,7 @@
 
 ## 一些说明
 
-所用到的环境：$python3.11$  &  $pollow9.4.0$  &  $numpy1.24.1$
+所用到的环境： $python3.11$  &  $pollow9.4.0$  &  $numpy1.24.1$
 
 所有用到的文件都可以在 $text2handwriting$ 文件夹内找到。
 
